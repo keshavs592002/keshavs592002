@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavs592002&label=Profile%20views&color=0e75b6&style=flat" alt="keshavs592002" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/keshav-bhagwan-singh-668229281](https://www.linkedin.com/in/keshav-bhagwan-singh-668229281)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/Keshav-Bhagwan-Singh-668229281](https://www.linkedin.com/in/keshav-bhagwan-singh-668229281)
 
 - 📫 How to reach me **ksingh20ite@student.mes.ac.in**
 

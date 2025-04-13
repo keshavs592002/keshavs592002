@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/Keshav-Bhagwan-Singh-668229281](https://www.linkedin.com/in/keshav-bhagwan-singh-668229281)
 
-- 📫 How to reach me **ksingh20ite@student.mes.ac.in**
+- 📫 How to reach me **keshavs592002@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1zbxGu-49m1H7CHlfn0Ls_jpdiULODT_O](https://drive.google.com/drive/folders/1zbxGu-49m1H7CHlfn0Ls_jpdiULODT_O)
 
